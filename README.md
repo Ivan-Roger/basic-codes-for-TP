@@ -1,18 +1,25 @@
 
 # basic-codes-for-TP
 
-Blocs unitaires de codes pour les TP
+Blocs unitaires de codes pour les TP de 3App à l'ESISAR.
 
 ## Contenu
 
-Morceaux de code pour mes TP, pour ne pas perdre du temps à réécrire les blocs unitaires à chaque TP.
+Morceaux de code pour les TP, pour ne pas perdre du temps à réécrire les fonctions
+standard à chaque TP.
 
 ## Cours concernés
 
-+ CS357 - C
-+ CE311 - VHDL
-+ CE317 - Architecture (Nucléo)
++ [CE317](/Archi) - Architecture (Nucléo)
++ [CS357](/C) - C
++ [CS318](/Java) - Java
++ [OS308](/OS) - Systèmes d'exploitation
++ [CE311](/VHDL) - VHDL
 
-## Auteur
+## Auteurs
 
-Raphaël C
++ [Raphaël C](https://github.com/airCstnr)
++ [Ivan R](https://github.com/Ivan-Roger)
++ [Pierre-Gilles C](https://github.com/Nithraniel)
++ [Arnaud DM](https://github.com/arnauddm)
++ [Biboun](https://biboun.com/)
